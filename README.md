@@ -22,9 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# crud_app
-# crud_app
-# crud_app
-# crud_app
-# crud_sample
-# crud_sample
+
